@@ -10,7 +10,7 @@ assignees: ""
 Welcome! Use this issue to track your progress as you work through the AI/ML modeling exercise. Follow each step, check the boxes when completed, and update your issue as you go.
 
 # ▶️ **Entry tasks**
-- [ ] Motivation letter posted in this issue
+- [x] Motivation letter posted in this issue
 - [ ] Installed the Ersilia Model Hub and successfully run models!
 - [ ] Recorded system settigns in this issue
 - [ ] Explained completed tests of Ersilia in the issue
